@@ -10,7 +10,7 @@ hunter_add_version(
 	URL
 	"https://github.com/wisk/ogdf/archive/snapshot-2015-12-04.tar.gz"
 	SHA1
-	fb9b5d93fd27feae91799c5a52805e10c139b22e
+	0a55144b31d165f4b3009693cb9089c6b8930c88
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
